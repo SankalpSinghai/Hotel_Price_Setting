@@ -1,0 +1,276 @@
+{
+  "listing" : {
+    "id" : "a0G4C000001DfDcUAK",
+    "externalId" : "419987"
+  },
+  "currency" : "USD",
+  "language" : "en",
+  "fees" : [
+    {
+      "id" : "a094C000000PfzrQAC",
+      "category" : "TRAVEL INSURANCE",
+      "type" : "PERCENT",
+      "name" : "Travel Insurance",
+      "percent" : 7.0,
+      "unit" : "STAY",
+      "multiplier" : "STAY",
+      "restriction" : "OPTIONAL",
+      "taxable" : false,
+      "bookingDate" : {
+        "start" : "01-01-2013",
+        "end" : "12-31-2030"
+      },
+      "checkInDate" : {
+        "start" : "01-01-2013",
+        "end" : "12-31-2030"
+      }
+    },
+    {
+      "id" : "a094C000000PfztQAC",
+      "category" : "DAMAGE INSURANCE",
+      "type" : "FLAT FEE",
+      "name" : "Damage Protection",
+      "amount" : 14.50,
+      "maxAmount" : 250.00,
+      "unit" : "NIGHT",
+      "multiplier" : "STAY",
+      "restriction" : "MANDATORY",
+      "taxable" : false,
+      "bookingDate" : {
+        "start" : "01-01-2013",
+        "end" : "12-31-2030"
+      },
+      "checkInDate" : {
+        "start" : "01-01-2013",
+        "end" : "12-31-2030"
+      }
+    },
+    {
+      "id" : "a094C000000wltLQAQ",
+      "category" : "SPA",
+      "type" : "FLAT FEE",
+      "name" : "$200 Spa Fee",
+      "percent" : 14.0,
+      "percentBasis" : "Rates",
+      "baseUnit" : "STAY",
+      "unit" : "STAY",
+      "multiplier" : "STAY",
+      "restriction" : "MANDATORY",
+      "taxable" : false,
+      "bookingDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      },
+      "checkInDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      }
+    },
+    {
+      "id" : "a094C000000wltBQAQ",
+      "category" : "PET",
+      "type" : "FLAT FEE",
+      "name" : "Pet Fee 5%",
+      "percent" : 14.0,
+      "percentBasis" : "Rates",
+      "baseUnit" : "STAY",
+      "unit" : "STAY",
+      "multiplier" : "STAY",
+      "restriction" : "MANDATORY",
+      "taxable" : false,
+      "bookingDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      },
+      "checkInDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      }
+    },
+    {
+      "id" : "a094C000000wltGQAQ",
+      "category" : "POOL",
+      "type" : "FLAT FEE",
+      "name" : "$20 Pool Heating Fee",
+      "percent" : 14.0,
+      "percentBasis" : "Rates",
+      "baseUnit" : "STAY",
+      "unit" : "STAY",
+      "multiplier" : "STAY",
+      "restriction" : "MANDATORY",
+      "taxable" : false,
+      "bookingDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      },
+      "checkInDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      }
+    },
+    {
+      "id" : "a094C000000wEVXQA2",
+      "category" : "LINEN",
+      "type" : "FLAT FEE",
+      "name" : "Linen & Towel Fee: $70 Per Stay",
+      "amount" : 70.00,
+      "baseUnit" : "STAY",
+      "unit" : "STAY",
+      "multiplier" : "STAY",
+      "restriction" : "MANDATORY",
+      "taxable" : false,
+      "bookingDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      },
+      "checkInDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      }
+    },
+    {
+      "id" : "a094C000000wEVwQAM",
+      "category" : "ADMIN",
+      "type" : "FLAT FEE",
+      "name" : "Community Fee: $125 Per Stay",
+      "amount" : 125.00,
+      "baseUnit" : "STAY",
+      "unit" : "STAY",
+      "multiplier" : "STAY",
+      "restriction" : "MANDATORY",
+      "taxable" : false,
+      "bookingDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      },
+      "checkInDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      }
+    },
+    {
+      "id" : "a094C000000wEUyQAM",
+      "category" : "EXTRA PERSON",
+      "type" : "FLAT FEE",
+      "name" : "Guest Fee",
+      "amount" : 25.00,
+      "baseUnit" : "PERSON",
+      "baseUnitMin" : 4.0,
+      "unit" : "PERSON",
+      "multiplier" : "NIGHT",
+      "restriction" : "MANDATORY",
+      "taxable" : false,
+      "bookingDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      },
+      "checkInDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      }
+    },
+    {
+      "id" : "a094C000000wEV8QAM",
+      "category" : "ADMIN",
+      "type" : "FLAT FEE",
+      "name" : "$100 Flat Management Fee",
+      "amount" : 100.00,
+      "baseUnit" : "STAY",
+      "unit" : "STAY",
+      "multiplier" : "STAY",
+      "restriction" : "MANDATORY",
+      "taxable" : false,
+      "bookingDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      },
+      "checkInDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      }
+    },
+    {
+      "id" : "a094C000000wEUtQAM",
+      "category" : "CLEANING",
+      "type" : "FLAT FEE",
+      "name" : "Cleaning Fee",
+      "amount" : 150.00,
+      "percentBasis" : "Fees",
+      "baseUnit" : "STAY",
+      "unit" : "STAY",
+      "multiplier" : "STAY",
+      "restriction" : "MANDATORY",
+      "taxable" : true,
+      "bookingDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      },
+      "checkInDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      }
+    },
+    {
+      "id" : "a094C000000wlt6QAA",
+      "category" : "EVENT",
+      "type" : "FLAT FEE",
+      "name" : "$40 Optional Fee",
+      "percent" : 14.0,
+      "percentBasis" : "Rates",
+      "baseUnit" : "STAY",
+      "unit" : "STAY",
+      "multiplier" : "STAY",
+      "restriction" : "MANDATORY",
+      "taxable" : false,
+      "bookingDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      },
+      "checkInDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      }
+    },
+    {
+      "id" : "a094C000000wltQQAQ",
+      "category" : "VEHICLE",
+      "type" : "FLAT FEE",
+      "name" : "$200 Vehicle Fee",
+      "percent" : 14.0,
+      "percentBasis" : "Rates",
+      "baseUnit" : "STAY",
+      "unit" : "STAY",
+      "multiplier" : "STAY",
+      "restriction" : "MANDATORY",
+      "taxable" : false,
+      "bookingDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      },
+      "checkInDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      }
+    },
+    {
+      "id" : "a094C000000wEV3QAM",
+      "category" : "ACTIVITY",
+      "type" : "FLAT FEE",
+      "name" : "Resort Fee",
+      "amount" : 50.00,
+      "baseUnit" : "STAY",
+      "unit" : "STAY",
+      "multiplier" : "STAY",
+      "restriction" : "MANDATORY",
+      "taxable" : false,
+      "bookingDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      },
+      "checkInDate" : {
+        "start" : "08-13-2018",
+        "end" : "08-13-2050"
+      }
+    }
+  ]
+}
